@@ -1,0 +1,24 @@
+.style{
+    display:flex;
+    width: 80%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: 5% 5% 5% 10%;
+}
+article{
+    margin: 5px 5px 5px 5px;
+    margin-left: 5%;
+}
+.boxshadow{
+    box-shadow: 10px 10px 40px;
+    padding: 25px 25px 25px 25px;
+}
+footer{
+    width: 95%;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5%;
+}
+
